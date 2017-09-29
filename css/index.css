@@ -1,0 +1,72 @@
+html{
+  background: #616568;
+}
+
+.divPai{
+  display: flex;
+  justify-content: space-between;
+}
+
+.divFilho{
+  padding: 0 15%;
+  margin-top: 10%;
+  position: relative;
+}
+
+.divPower{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10%;
+}
+
+.space{
+  margin-top: 50%;
+}
+
+.divMenu{
+  display: flex;
+  justify-content: space-between;
+  padding: 0 5%;
+}
+
+.shadow{
+  box-shadow: 0px 10px 5px rgba(0, 0, 0, 0.29);
+}
+
+.span{
+  position: relative;
+  left: 30%;
+  top: 10%;
+}
+
+.divNavigate{
+  display: flex;
+  justify-content: center;
+  margin-top: -60px;
+}
+
+.divFavorite{
+  display: flex;
+  justify-content: center;
+  margin-top: 20%;
+}
+
+.divFavorite a{
+  margin-right: 10px;
+  height: 35px;
+  line-height: 3;
+}
+
+.divFunction{
+  display: flex;
+  justify-content: space-between;
+  height: 10%;
+}
+
+.divFunction a{
+  height: 35px;
+  line-height: 1.5;
+  margin-left: 50%;
+  top: 20px;
+}
