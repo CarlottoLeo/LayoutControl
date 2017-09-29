@@ -61,7 +61,6 @@ html{
 .divFunction{
   display: flex;
   justify-content: space-between;
-  height: 10%;
 }
 
 .divFunction a{
@@ -69,4 +68,8 @@ html{
   line-height: 1.5;
   margin-left: 50%;
   top: 20px;
+}
+
+.FunctionFilho{
+
 }
